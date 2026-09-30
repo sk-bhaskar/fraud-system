@@ -8,7 +8,7 @@ An end-to-end Machine Learning system that detects fraudulent transactions in re
 
 This project simulates a real-world fraud detection pipeline used in financial systems. It processes transaction data, predicts fraud probability, and categorizes risk levels instantly through an API.
 
-The system is designed to handle highly imbalanced data and prioritize fraud detection (high recall) while balancing false positives using threshold tuning.
+The system is designed to handle highly imbalanced data and prioritize fraud detection (high recall) while balancing false positives using thresold tuning.
 
 ---
 
